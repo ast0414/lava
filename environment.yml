@@ -1,0 +1,15 @@
+name: lava
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pytorch=0.3.1
+  - torchvision
+  - cuda91
+  - scikit-learn
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
