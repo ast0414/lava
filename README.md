@@ -1,6 +1,6 @@
 # LAVA
 This repository contains the source code for the paper:
-*An, Sungtae, et al. "Longitudinal Adversarial Attack on Electronic Health Records Data." Proceedings of the 2019 World Wide Web Conference. ACM, 2019.* [Paper](http://delivery.acm.org/10.1145/3320000/3313528/p2558-an.html?ip=143.215.34.117&id=3313528&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2E5E2401E94B5C98E0%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1563333251_e85a371b7110fd4ef78589d9af78835f)
+*An, Sungtae, et al. "Longitudinal Adversarial Attack on Electronic Health Records Data." Proceedings of the 2019 World Wide Web Conference, WWW'19, ACM, 2019.* [Paper](http://delivery.acm.org/10.1145/3320000/3313528/p2558-an.html?ip=143.215.34.117&id=3313528&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2E5E2401E94B5C98E0%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1563333251_e85a371b7110fd4ef78589d9af78835f)
 
 ##### These codes were tested with Python 3.6 and PyTorch 0.3.1 (built with CUDA 9.1). You may use the included conda environment file `environment.yml`.
 
